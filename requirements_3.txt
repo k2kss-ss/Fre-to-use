@@ -1,0 +1,5 @@
+redis[hiredis]
+boto3
+torch
+diffusers
+Pillow

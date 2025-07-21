@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+aiosqlite
+redis[hiredis]
+boto3
+huggingface_hub
+transformers
+torch
+diffusers
+Pillow
